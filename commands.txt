@@ -1,0 +1,37 @@
+venv/Scripts/activate
+
+pip install google-adk
+
+adk create name
+
+adk web
+
+( taylor, Charlie krik, black ice)
+
+https://ai.google.dev/gemini-api/docs/models#live-api
+
+cd langchain-memory
+
+( Tool use , buffer, react)
+
+python app.py
+
+cd ..
+
+cd mcp-server-demo
+
+.venv/Scripts/activate
+
+
+uv run mcp install main.py
+
+"C:\Users\priya\Downloads\support_tickets_data (2).xlsx"
+
+
+tell me more about the titanic ship 
+
+
+
+
+
+ 
